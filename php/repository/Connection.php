@@ -1,10 +1,10 @@
 <?php
     class Connection extends PDO {
 
-        const HOSTNAME = "ec2-23-20-224-166.compute-1.amazonaws.com";
-        const USERNAME = "setwygsljndlfr";
-        const PASSWORD = "6cd8cbff03343c152bdb8120c5225cc39e084457d92c106053299e9dec058235";
-        const SCHEMA = "d3prke42ebj79m";
+        const HOSTNAME = "ec2-52-86-115-245.compute-1.amazonaws.com";
+        const USERNAME = "xlqzketxveplje";
+        const PASSWORD = "7085d5105b246fa62ac864df80d3eea005136cd4076a6664738495c55624cef1";
+        const SCHEMA = "darmfv85c1nab0";
         const PORT = 5432;
 
         private $conn;
